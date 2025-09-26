@@ -1,92 +1,19 @@
-<div align="center">
-  
-#  Choose To Be Happy  
-### I build tools that make better (and lighter) choices easier.
+# Choose to Be Happy
 
-“Happy” for me = clarity, sustainability, kindness in design, and small sparks of delight.
+Welcome to my projects! This space is a reflection of my passion for technology and innovation. Here, you will find tools and applications designed to make a difference.
 
-</div>
+## 🌼 My Projects
 
----
+1. **lca-tool**: A tool that simplifies the process of finding the Lowest Common Ancestor in trees, helping you understand complex data structures with ease.
+   
+2. **AI_Tool_BerlinPackaaging**: A cutting-edge AI tool designed to streamline packaging processes in Berlin, combining efficiency with sustainability.
 
-### ☀️ What I’m Doing
-- Crafting sustainability + LCA tooling (make impact visible)
-- Adding gentle intelligence (AI where it reduces friction)
-- Designing interfaces that feel calm, honest, human
+3. **Agni2025**: A forward-thinking project aimed at addressing challenges in the 21st century, focusing on innovative solutions for a better tomorrow.
 
----
+4. **Packgine_Frontend**: The user-friendly frontend for Packgine, designed to enhance the user experience with a calm and intuitive interface.
 
-### 💛 Core Philosophy
-Happiness is not a reward at the end — it’s a design constraint.
-So I try to:
-- remove friction
-- keep things understandable
-- choose defaults that are kind
-- celebrate “enough,” not “endless”
-- leave things a bit lighter than I found them
+5. **Tool**: A versatile tool that can be adapted for various applications, making your work easier and more efficient.
 
----
+## 🌈 Let's Spread Positivity!
 
-### 🔧 Active Projects (Mini Snapshots)
-
-**LCA Tool**  
-Helps quantify environmental impact so decisions aren’t guesses.
-
-**AI Packaging Tool**  
-Guides smarter packaging choices (less waste, more sense).
-
-**Agni2025**  
-Exploration space: future-facing experiments.
-
-**Packgine Frontend**  
-Interface experiments in clarity + sustainable literacy.
-
----
-
-### 🌿 Small Practices
-```
-slow > rushed
-clear > clever
-kind > defensive
-repair > discard
-iterate > perfect
-breathe > grind
-```
-
----
-
-### 🫧 Light Mood Panel (manual, intentional)
-```
-focus: steady
-energy: grounded
-joy-signal: building useful quiet tools
-```
-
----
-
-### 🌼 Today’s Tiny Byte
-> “Happiness isn’t louder — it’s easier to carry.”
-
-(You can automate this later with a GitHub Action if you want.)
-
----
-
-### 🛠 Possible Next Happy Enhancements (Optional)
-- rotating “tiny byte” quote (auto-update)
-- mood color accent (changes weekly)
-- “one less waste” log (small wins section)
-
-Tell me which (if any) you want and I’ll scaffold code/workflows.
-
----
-
-### 🤝 Connect (add real links later)
-[LinkedIn]() • [Email]() • [Portfolio]()  
-
----
-
-<div align="center">
-  
-🪴 Build well. Care gently. Choose to be happy.
-
-</div>
+Remember, happiness is a choice! Embrace positivity and let it reflect in everything you do. Your journey towards joy starts here!
