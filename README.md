@@ -26,7 +26,7 @@ Great software should feel: **understandable · maintainable · responsible · l
 | 🌍 LCA Tooling | Modeling & surfacing environmental impact data | Actionable visibility |
 | 📦 AI for Packaging | Suggesting lower-waste packaging decisions | Reduced material waste |
 | 🔬 Agni2025 | Future-facing prototypes & architectural experiments | Validated innovation paths |
-| 🧪 Packgine Frontend | Calm, accessible interaction patterns | Lower decision friction |
+| 🧪 Packgine | Calm, accessible interaction patterns | Lower decision friction |
 
 ---
 
