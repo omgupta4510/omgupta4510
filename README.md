@@ -74,10 +74,6 @@ Modern frontend application for packaging solutions
   <img src="https://github-profile-trophy.vercel.app/?username=omgupta4510&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
-## 📊 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omgupta4510&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
-</div>
 
 ## 🌟 Current Focus
 
