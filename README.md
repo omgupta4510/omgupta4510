@@ -1,102 +1,179 @@
-# Hi there! 👋 I'm Om Gupta
+<!--
+  README Concept: Choose To Be Happy
+  Feel free to trim or extend sections.
+-->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Sustainability+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate developer focused on creating innovative solutions that combine technology with sustainability. Currently working on AI-powered tools and Life Cycle Assessment (LCA) applications to make environmental impact analysis more accessible.
-
-- 🔭 I'm currently working on **LCA tools** and **AI packaging solutions**
-- 🌱 I'm exploring **sustainable technology** and **environmental impact assessment**
-- 💡 I love building **full-stack applications** with modern technologies
-- 🎯 Goal: Contributing to a more sustainable future through technology
-
-## 🛠️ Tech Stack
-
+<!-- Hero Section -->
 <div align="center">
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h1 style="font-size:3.2rem; line-height:1.1; margin-bottom:0;">🌈 CHOOSE · TO · BE · HAPPY</h1>
+<h3 style="font-weight:500; margin-top:0.6rem;">Crafting sustainable tech • Designing joyful systems • Coding with intention</h3>
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/State-of-Mind-Serotonin%20Optimized-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-LCA%20%2B%20AI%20%2B%20Sustainability-4ade80?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Philosophy-Positive%20Engineering-6366f1?style=for-the-badge" />
 
-### AI & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<br/><br/>
 
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omgupta4510&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgupta4510&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgupta4510&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🔥 Featured Projects
-
-### 🌍 [LCA Tool](https://github.com/omgupta4510/lca-tool)
-A comprehensive Life Cycle Assessment tool for environmental impact analysis
-- **Tech Stack:** JavaScript, Environmental Data Analysis
-- **Features:** Sustainability metrics, Impact visualization
-- 🌱 Helping businesses measure their environmental footprint
-
-### 🤖 [AI Packaging Tool](https://github.com/omgupta4510/AI_Tool_BerlinPackaaging)
-AI-powered packaging optimization solution
-- **Tech Stack:** AI/ML, Data Analysis
-- **Purpose:** Intelligent packaging design and optimization
-- 📦 Revolutionizing packaging efficiency
-
-### 🔥 [Agni2025](https://github.com/omgupta4510/Agni2025)
-Innovative project for 2025 initiatives
-- **Status:** Active Development
-- **Focus:** Next-generation solutions
-
-### 🎨 [Packgine Frontend](https://github.com/omgupta4510/Packgine_Frontend)
-Modern frontend application for packaging solutions
-- **Tech Stack:** React, Modern UI/UX
-- **Features:** Responsive design, User-friendly interface
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omgupta4510&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-
-## 🌟 Current Focus
-
-- 🔬 **Sustainable Technology**: Developing tools for environmental impact assessment
-- 🤖 **AI Integration**: Incorporating AI into practical business solutions  
-- 📱 **Full-Stack Development**: Building comprehensive web applications
-- 🌍 **Climate Tech**: Contributing to climate-positive technology solutions
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+✨ “Happiness is a design decision. I architect workflows, products and tools that reduce friction, amplify clarity, and encourage sustainable choices.” ✨
 
 </div>
 
 ---
 
+### ☀️ Micro-Identity (Who I Am in 7 Words)
+Engineer • Optimizer • Sustainability Minded • Joy Architect
+
+---
+
+### 🌀 Operating Principles (My Personal "Runtime")
+| Principle | Translation to Code Life | Result |
+|-----------|--------------------------|--------|
+| Reduce entropy | Automate repetitive friction | More creative energy |
+| Build with empathy | Clear docs, accessible UX | Inclusive adoption |
+| Measure impact | LCA, metrics, iteration loops | Continuous improvement |
+| Default to optimism | Seek possibility over limitation | Momentum |
+| Ship tiny joys | Surprise & delight in details | Emotional stickiness |
+| Design for sustainability | Conscious architecture choices | Lower footprint |
+| Happiness is modular | Assemble your day intentionally | Resilience |
+
+---
+
+### 🌍 Current Focus Universe
+```text
+[ CORE ]  LCA Tooling • AI × Packaging Sustainability
+[ R&D  ]  UX for Environmental Decisions • Data Visualization
+[ LAB  ]  Emotional design patterns • Joyful automation rituals
+```
+
+---
+
+### 🎨 The "Happy Stack"
+| Layer | Tooling / Concepts | Emotional Intent |
+|-------|--------------------|------------------|
+| Interface | React, Tailwind, Accessible Components | Calm clarity |
+| Logic | Node.js, Python ML modules | Expressive reasoning |
+| Intelligence | Model-assisted decisions (AI hints) | Reduce cognitive load |
+| Integrity | CI sanity checks, typed boundaries | Trustworthiness |
+| Sustainability | LCA modeling patterns | Responsibility |
+| Joy Layer | Subtle animations, clean typography | Lightness |
+
+---
+
+### 🌱 Featured Impactful Builds
+
+#### 🌿 LCA Tool
+Quantifying environmental impact so choices become obvious.  
+Focus: Transparent calculations • Visual impact layers • Scenario modeling.
+
+#### 🤖 AI Packaging Tool
+Helping packaging decisions become smarter + greener.  
+Focus: Intelligent suggestions • Waste reduction • Optimization loops.
+
+#### 🔥 Agni2025
+Exploratory initiative for forward-looking solutions (2025+ vision prototypes).
+
+#### 🎛 Packgine Frontend
+Interface experiments in clarity, micro-joy and environmental literacy.
+
+---
+
+### 🧪 Joy Experiments (Active)
+| Experiment | Description | Status |
+|------------|-------------|--------|
+| Mood-driven accent color | UI palette shifts based on a daily retrieval action | Designing |
+| “One-Less-Waste” prompt | Daily nudge to eliminate a wasteful pattern | Trial |
+| Gratitude commit footer | Optional `#grateful:` annotated commits | Manual |
+| Flow blocks | 90/20 focus rhythms in timer plugin | Practicing |
+
+---
+
+### 📦 Happiness-Oriented Dev Artifacts
+```yaml
+tooling:
+  rituals:
+    - "Daily micro-retro at 19:00"
+    - "Commit message clarity > brevity"
+    - "Green energy hours scheduling (where possible)"
+  emotional_instrumentation:
+    - "Lightweight friction log"
+    - "Energy check-in before deep work"
+    - "Weekly 'remove one drag' refactor"
+```
+
+---
+
+### 🔄 Dynamic Zones (Optional Automations You Can Add)
+These can be powered by GitHub Actions + small scripts (ask me and I'll generate them):
+
+1. Daily Happiness Quote (auto-injected below)
+2. “One Sustainable Tip” rotation
+3. Visualization of your weekly “commit mood pattern”
+4. Rolling 7-day “time-in-flow” scoreboard (manual journaling → JSON → badge)
+
+#### 🌞 Today’s Happiness Byte (placeholder)
+> “Simplicity is compassionate. Complexity is rarely kind.”
+
+---
+
+### 🧭 My North Star / Why I Build
+Because tools shape decisions—and if tools are built with care, insight and generosity, they become quiet companions that help people choose better for themselves and the planet.
+
+---
+
+### ⚙️ Potential GitHub Action: Daily Quote Injector (Optional)
+Add a file `.github/workflows/daily-quote.yml` + a small script that rewrites a marker between:
+`<!--QUOTE_START--> ... <!--QUOTE_END-->`.
+
+Want this? Ping me: I’ll scaffold it.
+
+---
+
+### 💬 Interaction Map
+| If you want... | Reach out about |
+|----------------|-----------------|
+| To collaborate | LCA model integration, AI assist layers |
+| To learn | Sustainable system design decisions |
+| To brainstorm | Productizing environmental insights |
+| To jam on | Joyful developer experience patterns |
+
+---
+
+### ☁️ Ambient Metrics (Philosophical)
+```text
+CLARITY LEVEL      ████████▓░  (improving)
+JOY RESONANCE      ███████░░░  (needs more animation)
+SUSTAIN IMPACT     ████████░░  (expanding)
+EXPERIMENT THROUGHPUT  steady
+REFRACTORING DRAG  minimized weekly
+```
+
+---
+
+### 🔍 Changelog of Intent (Reverse Chronology)
+- 2025-Sep: Declared "Choose To Be Happy" design thesis
+- 2025-Sep: Began formalizing joy experiments
+- 2025-Aug: Refined sustainable modeling layer
+- 2025-Jul: Iterated packaging AI heuristics
+
+---
+
+### 🧘 Happiness Footnote
+Happiness isn’t an outcome—it’s architectural. You can scaffold for it: remove friction, add meaning, align efforts with values, and honor recovery.
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omgupta4510&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
-  *"Building technology that matters for our planet's future"* 🌍
+**Choose to be happy. Build to make that easier—for you and others.**
+  
+<img src="https://komarev.com/ghpvc/?username=omgupta4510&label=Visitors&color=ffc857&style=flat-square" />
+  
 </div>
+
+<!--
+Possible next steps:
+- Add dynamic sections via Actions
+- Replace placeholder social links
+- Pin curated repos with aligned messaging
+-->
